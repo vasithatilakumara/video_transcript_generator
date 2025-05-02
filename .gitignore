@@ -2,3 +2,12 @@
 venv/
 ENV/
 env/
+
+video/
+
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
